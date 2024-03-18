@@ -1,0 +1,101 @@
+.product-card {
+  border: 1px solid black;
+  margin: 0 auto;
+  padding: 18px;
+  width: 500px;
+  right: 20px;
+  position: relative;
+  background-color: rgba(241, 225, 204, 0.966);
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagin-pc {
+  height: 350px;
+  text-align: center;
+  display: block;
+}
+.bestseller {
+  font-size: 30px;
+  font-weight: bold;
+  color: crimson;
+  position: relative;
+  top: 39px;
+  padding: 4px;
+  right: 10px;
+  background-color: cornflowerblue;
+}
+.top {
+  font-weight: bold;
+  color: rgb(55, 0, 255);
+  position: relative;
+  right: 60px;
+  text-decoration: solid black;
+  background-color: rgb(191, 226, 95);
+  padding: 4px;
+}
+.button {
+  font-weight: bold;
+  cursor: pointer;
+  border: 3px;
+}
+.informace {
+  font-size: large;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+p {
+  padding-left: 10px;
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+.hall {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+h1 {
+  padding-left: 30px;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.akce {
+  font-weight: bold;
+  color: tomato;
+  font-size: 30px;
+  position: relative;
+  right: 20px;
+  bottom: 43px;
+}
+.price-check {
+  padding: 14px;
+  margin-left: 30px;
+  display: block;
+}
+.check {
+  border-radius: 10px;
+  background-color: rgb(240, 114, 114);
+  cursor: pointer;
+  position: relative;
+  left: 80%;
+}
+.basket {
+  font-size: large;
+  font-weight: bold;
+}
+.price {
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: line-through;
+  position: relative;
+  right: 30%;
+  bottom: 40px;
+}
+.lowe {
+  font-size: large;
+  display: block;
+  padding: 6px;
+  color: rgb(180, 31, 31);
+  margin-right: 67%;
+}
